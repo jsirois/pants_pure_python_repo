@@ -4,3 +4,4 @@ python:
 
 script:
   - "./pants list ::"
+  - "./pants run src/python/pants_pure_python_repo"
